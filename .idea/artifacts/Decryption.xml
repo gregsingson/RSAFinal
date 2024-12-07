@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Decryption">
+    <output-path>$PROJECT_DIR$/out/artifacts/Decryption</output-path>
+    <root id="archive" name="Decryption.jar">
+      <element id="module-output" name="RSAFinal" />
+    </root>
+  </artifact>
+</component>
